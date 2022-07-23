@@ -16,19 +16,19 @@
     },
     "OWNER": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
-         "value": "mutsuz_panda"
+         "value": "Rowlyn"
     },
     "BOT_USERNAME": {
          "description": "Botun kullanıcı adınızı yazınız @ işareti olmadan",
-         "value": "mutsuz_panda"
+         "value": "NemesisDcBot"
     },      
     "SUPPORT": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
-         "value": "Richard_Ramirezzblog"
+         "value": "RowlynBotUpdatesGrub"
 
     },
     "OWNER_ID": {
-      "description": "Botunuzda Yetmili Olmasini Istediginiz Kisilerin Idleri"
+      "description": "Botunuzda Yetkili Olmasini Istediginiz Kisilerin Idleri"
     }
    },
    "buildpacks": [
